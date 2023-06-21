@@ -1,7 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Gaurav Shukla </h1>
 
-![github_cover_banner]
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%"/>
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70vw" margin="auto"/>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.
