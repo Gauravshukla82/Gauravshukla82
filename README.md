@@ -11,7 +11,7 @@
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
 <a href="https://github.com/gauravshukla82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gaurav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gauravshukla82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
-<a href="https://https://gauravshukla82.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkAEr6zjdMv-9HEO7pwJ_Gl7UujMKDNpVJpurmeNpJA&s" alt="gaurav" height="40" width="40" /></a>
+<a href="https://gauravshukla82.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkAEr6zjdMv-9HEO7pwJ_Gl7UujMKDNpVJpurmeNpJA&s" alt="gaurav" height="40" width="40" /></a>
     <a href="mailto:gauravshukla.ec1022@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/768px-Circle-icons-mail.svg.png" alt="gaurav" height="45" width="45" /></a>
 </p>
 
