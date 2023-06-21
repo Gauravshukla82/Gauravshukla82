@@ -11,7 +11,7 @@
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
 <a href="https://github.com/gauravshukla82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gaurav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gauravshukla82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
-    <a href="https://https://gauravshukla82.github.io/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190215/ourmid/pngtree-vector-web-search-icon-png-image_553891.jpg" alt="gaurav" height="35" width="50" /></a>
+    <a href="https://https://gauravshukla82.github.io/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190215/ourmid/pngtree-vector-web-search-icon-png-image_553891.jpg" alt="gaurav" height="45" width="45" /></a>
 </p>
 
 [Email Me](mailto:gauravshukla.ec1022@gmail.com)
