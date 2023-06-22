@@ -7,6 +7,15 @@
 Passionate full stack developer with expertise in HTML, CSS and JavaScript. Experienced in React, Redux, Node.js, and Express.js. Strong database management skills (MongoDB). Dedicated to crafting user-friendly and efficient web applications. Constantly learning and staying updated with the latest technologies. Ready to collaborate and create impactful projects.
 <br>
 <br>
+    <p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gauravshukla82" alt="Gaurav" /></a> </p>
+
+- 👯 I’m looking to collaborate on Projects.
+
+- 📝 I regularly read articles on Technology.
+
+- 📫 How to reach me **gauravshukla.ec1022@gmail.com**
+
+- 🫠 Know more about me **https://Gauravshukla82.github.io/**  
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
@@ -14,9 +23,7 @@ Passionate full stack developer with expertise in HTML, CSS and JavaScript. Expe
 <a href="https://www.linkedin.com/in/gauravshukla82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
     <a href="mailto:gauravshukla.ec1022@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/768px-Circle-icons-mail.svg.png" alt="gaurav" height="45" width="45" /></a>
 </p>
-</div>
-* 📄: Know about my experiences [portfolio]!(https://Gauravshukla82.github.io/)
-</p>    
+</div>   
 <br>
 
 
