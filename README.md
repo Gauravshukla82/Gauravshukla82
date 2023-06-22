@@ -1,9 +1,10 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Gaurav Shukla </h1>
-
+<div align="center">    
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70%" aligh="center"/>
+<div/>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.
+Passionate full stack developer with expertise in HTML, CSS and JavaScript. Experienced in React, Redux, Node.js, and Express.js. Strong database management skills (MongoDB). Dedicated to crafting user-friendly and efficient web applications. Constantly learning and staying updated with the latest technologies. Ready to collaborate and create impactful projects.
 <br>
 <br>
 <div align="center">
@@ -11,9 +12,9 @@
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
 <a href="https://github.com/gauravshukla82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gaurav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gauravshukla82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
-<a href="https://gauravshukla82.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkAEr6zjdMv-9HEO7pwJ_Gl7UujMKDNpVJpurmeNpJA&s" alt="gaurav" height="40" width="40" /></a>
     <a href="mailto:gauravshukla.ec1022@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/768px-Circle-icons-mail.svg.png" alt="gaurav" height="45" width="45" /></a>
 </p>
+- 📄 Know about my experiences [portfolio](https://Gauravshukla82.github.io/)
 
 </div>
 </p>    
