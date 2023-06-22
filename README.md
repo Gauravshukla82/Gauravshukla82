@@ -8,7 +8,8 @@ Passionate full stack developer with expertise in HTML, CSS and JavaScript. Expe
 <br>
 <br>
     <p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gauravshukla82" alt="Gaurav" /></a> </p>
-
+<div align="left">
+    
 - 👯 I’m looking to collaborate on Projects.
 
 - 📝 I regularly read articles on Technology.
@@ -16,6 +17,7 @@ Passionate full stack developer with expertise in HTML, CSS and JavaScript. Expe
 - 📫 How to reach me **gauravshukla.ec1022@gmail.com**
 
 - 🫠 Know more about me **https://Gauravshukla82.github.io/**  
+</div>
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
