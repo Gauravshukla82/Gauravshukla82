@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Gaurav Shukla </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hi, This is Gaurav Shukla!! 👋</h1>
 <div align="center">    
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70%" aligh="center"/>
 <div/>
@@ -14,9 +14,8 @@ Passionate full stack developer with expertise in HTML, CSS and JavaScript. Expe
 <a href="https://www.linkedin.com/in/gauravshukla82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
     <a href="mailto:gauravshukla.ec1022@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/768px-Circle-icons-mail.svg.png" alt="gaurav" height="45" width="45" /></a>
 </p>
-- 📄 Know about my experiences [portfolio](https://Gauravshukla82.github.io/)
-
 </div>
+* 📄: Know about my experiences [portfolio]!(https://Gauravshukla82.github.io/)
 </p>    
 <br>
 
